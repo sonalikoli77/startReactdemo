@@ -1,0 +1,146 @@
+.LoginForm{
+    width:100%;
+    height:100%;
+    height:100vh !important;
+    background-color: rgb(39, 39, 141);
+}
+.col-social{
+    padding-top: 20px;
+}
+.LoginForm-Div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 50px 50px 50px;
+    height: 500px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(95, 98, 95);  
+}
+.admin-img{
+    width: 30px;
+    height:30px;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.Loginemail{
+   color: white;
+   margin-left: 10px;
+   font-size: 15px;
+}
+.login-email{
+    margin-left: 10px;
+    font-family: 'Georgia, serif';
+}
+.head-login{
+    font-weight: 700;
+    font-family: inherit;
+    color: white;
+    font-size: 50px;
+    /* font-family: 'sans-serif,Segoe UI', Tahoma, Geneva, Verdana; */
+}
+.para-login{
+    color: rgb(182, 175, 175);
+    font-family: system-ui;
+    font-weight: 500;
+    padding-top: 20px;
+    margin-left: 60px;
+}
+.btn-style{
+    width:200px !important;
+    height:50px !important;
+    border-color: rgb(245, 73, 11);
+    color:white;
+    background-color: rgb(39, 39, 141);
+}
+.ligth-card-box{
+    height:40px;
+    width:40px;
+    font-size: 14px;
+    font-weight: 300;
+    background-color:rgb(67, 67, 144) ;
+    margin-left:20px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ligth-card-box-odd{
+    height:40px;
+    width:40px;
+    font-size: 14px;
+    font-weight: 300;
+    background-color: whitesmoke;
+    margin-left:20px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-bg{
+    background-color: darkslateblue;
+    margin:50px !important;
+    height:500px;
+    width:auto;
+}
+.form-input{
+    border-color: whitesmoke;
+    background-color:darkslateblue ;
+}
+.parasub{
+    display: flex;
+    padding: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.btn-cardinfo{
+    width: 200px !important;
+    height: 50px !important;
+    border-color: 2px solid whitesmoke !important;
+    background-color: rgb(245, 73, 11) !important;
+    color:white;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: inherit;
+  
+}
+.card-begin{
+    padding:50px;
+}
+.section-exchange{
+    margin-top: 120px;
+    padding: 5px;
+}
+.start-txt{
+    margin-left: 48px;
+}
+.para-txt{
+    margin-left: -119px
+}
+.para-sub{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    padding-bottom: 50px;
+}
+.form-error{
+    color: rgb(221, 51, 51);
+    font-size: 12px;
+    font-weight: 400;
+    display: flex;
+    margin-left: 10px;
+    font-weight: 700;
+}
+.amount-label
+{
+    font-size: 14px;
+    font-weight: 500;
+}
+.num{
+    font-weight: 900;
+    font-size: 70px;
+    color: #f04a0b;
+}
+/* @media screen and(minWidth:320px) and (maxWidth:575px){
+    
+} */
